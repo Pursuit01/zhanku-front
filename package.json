@@ -1,0 +1,25 @@
+{
+  "name": "imooc-front",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite --host",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@vueuse/core": "^8.1.2",
+    "axios": "^0.26.1",
+    "vue": "^3.2.25",
+    "vue-router": "^4.0.15"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.3.3",
+    "autoprefixer": "^10.4.2",
+    "postcss": "^8.4.8",
+    "sass": "^1.45.0",
+    "tailwindcss": "^3.0.23",
+    "vite": "^2.9.9",
+    "vite-plugin-svg-icons": "^2.0.1"
+  }
+}
